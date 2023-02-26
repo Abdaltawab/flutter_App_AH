@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 
 
-
-class Task3 extends StatelessWidget{
+class detailNews extends StatelessWidget{
 @override
 Widget build(BuildContext context){
 
